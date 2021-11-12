@@ -1,10 +1,10 @@
 <h1 align="center"><code>bui-terminal</code></h1>
 <p align="center">BUI for terminal</p>
-<p align="center"><a href="https://github.com/NNBnh/bui-terminal/blob/main/LICENSE"><img src="https://img.shields.io/github/license/NNBnh/bui-terminal?labelColor=073551&color=4EAA25&style=for-the-badge" alt="License: GPL-3.0"></a> <img src="https://img.shields.io/github/last-commit/NNBnh/bui-terminal?labelColor=073551&color=4EAA25&style=for-the-badge"></p>
+<p align="center"><a href="https://github.com/NNBnh/bui-terminal/blob/main/LICENSE"><img src="https://img.shields.io/github/license/NNBnh/bui-terminal?labelColor=073551&color=4EAA25&style=for-the-badge" alt="License: GPL-3.0"></a> <a href="https://gist.github.com/NNBnh/9ef453aba3efce26046e0d3119dab5a7#development-completed"><img src="https://img.shields.io/badge/development-completed-%234EAA25.svg?labelColor=073551&style=for-the-badge&logoColor=FFFFFF" alt="Development completed"></a></p>
 <p align="center"><a href="https://github.com/NNBnh/bui-terminal/watchers"><img src="https://img.shields.io/github/watchers/NNBnh/bui-terminal?labelColor=073551&color=4EAA25&style=flat-square"></a> <a href="https://github.com/NNBnh/bui-terminal/stargazers"><img src="https://img.shields.io/github/stars/NNBnh/bui-terminal?labelColor=073551&color=4EAA25&style=flat-square"></a> <a href="https://github.com/NNBnh/bui-terminal/network/members"><img src="https://img.shields.io/github/forks/NNBnh/bui-terminal?labelColor=073551&color=4EAA25&style=flat-square"></a> <a href="https://github.com/NNBnh/bui-terminal/issues"><img src="https://img.shields.io/github/issues/NNBnh/bui-terminal?labelColor=073551&color=4EAA25&style=flat-square"></a></p>
 
 ## About
-`bui-terminal` is an UI tool written in [`portable sh`](https://github.com/dylanaraps/pure-sh-bible) that change terminal colors on-the-fly independent of terminal emulator and uses [BUI environment variables](https://github.com/NNBnh/dots/wiki/bui).
+`bui-terminal` is an UI tool written in [`portable sh`](https://github.com/dylanaraps/pure-sh-bible) that change terminal colors on-the-fly independent of terminal emulator and uses [BUI environment variables](https://github.com/superb-ui/bui).
 
 ## Contents
 - [About](#about)
